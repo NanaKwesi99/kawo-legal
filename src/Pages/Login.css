@@ -1,0 +1,70 @@
+/*navbar */
+.login-navbar {
+	background-color: #310C0C;
+	border: none;
+	border-radius: 0px;
+}
+
+.login-brand-image > img {
+	height: 60px;
+}
+
+.nav-button {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.login-navbar .nav-button > li > a {
+    color: #e62e00;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.login-navbar .nav-button > li > a:hover {
+	border: 2px solid #D14233;
+	color: #e62e00;
+}
+
+/* form */
+.register {
+	padding-left: 50px;
+	margin: 40px 50px 140px 100px;
+	width: 70%;
+}
+
+.form > h3 {
+	padding-left: 120px;
+	margin: 30px;
+}
+
+.register > .login-btn {
+	background-color: #005c99;
+	color: #fff;
+}
+
+.register > .login-btn:hover {
+	background-color: #005c99;
+	color: #fff;
+}
+
+
+/*footer */
+.footer {
+	background-color: #310C0C;
+	margin-top: 30px;
+}
+
+.footer-content > p {
+	font-size: 12px;
+	padding-top: 15px;
+	color: #fff;
+	float: left;
+}
+
+.footer-content > img {
+    display: inline-flex;
+    height: 20px;
+    padding-left: 2rem;
+    float: right;
+    margin-top: 15px;
+    margin-left: 3rem;
+}
